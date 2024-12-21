@@ -6,11 +6,8 @@ using Microsoft.SemanticKernel.Connectors.Ollama;
 
 
 #pragma warning disable format
-#pragma warning disable CA1861
 #pragma warning disable SKEXP0070
-#pragma warning disable SKEXP0001
 #pragma warning disable CS8604
-#pragma warning disable SKEXP0010
 
 internal class Program
 {
