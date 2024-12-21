@@ -2,8 +2,6 @@
 
 using Microsoft.SemanticKernel;
 using Microsoft.SemanticKernel.Embeddings;
-using Microsoft.SemanticKernel.ChatCompletion;
-using Microsoft.SemanticKernel.Connectors.Ollama;
 using Microsoft.SemanticKernel.Connectors.InMemory;
 
 using MyDataModel; // include MyDataModel from DataModel.cs
