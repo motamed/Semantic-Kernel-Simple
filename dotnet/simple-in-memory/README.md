@@ -13,3 +13,6 @@ The application performs the following steps:
 3. Stores the text and its embeddings in an in-memory vector store.
 4. Generates embeddings for a search query.
 5. Searches the vector store using the generated embeddings and prints the search result.
+
+
+[Reference](https://github.com/microsoft/semantic-kernel/blob/main/dotnet/samples/Concepts/Memory/VectorStore_VectorSearch_Simple.cs)
